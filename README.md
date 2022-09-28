@@ -1,1 +1,2 @@
-# tarea1
+Eduardo Ignacio Parra Roldan
+Iván Ignacio Zapata Ávila
