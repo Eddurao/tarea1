@@ -21,7 +21,7 @@ class Articulo {
         return peso;
     }
 }
-
+//un comentario simple
 class DetalleOrden {
     private final ArrayList<Articulo> a;
     private int cantidad;
